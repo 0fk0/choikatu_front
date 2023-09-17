@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: #FBED71;
+    
+  }
+
+img {
+    width: 100%;
+}
