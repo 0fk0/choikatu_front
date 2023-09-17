@@ -12,6 +12,11 @@ img {
     width: 100vw;
 }
 
+button {
+    border: hidden;
+    background-color: #FBED71;
+}
+
 #content {
     display: flex;
     flex-direction: column;
