@@ -1,19 +1,18 @@
 body {
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    background-color: #FBED71;
     display: flex;
     flex-direction: row;
     align-items: center;
-
-  }
-
-img {
-    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #FBED71;
 }
 
-#section {
+img {
+    width: 100vw;
+}
+
+#content {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
